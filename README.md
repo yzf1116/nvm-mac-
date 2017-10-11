@@ -1,9 +1,9 @@
-node版本管理工具nvm的安装和使用（mac）
+# node版本管理工具nvm的安装和使用（mac）
 
-npm安装
+# 使用npm安装
 npm install nvm
 
-nvm使用命令
+# nvm使用命令
 nvm install <version>  ## 安装指定版本，可模糊安装，如：安装v4.4.0，既可nvm install v4.4.0，又可nvm install 4.4
 
 nvm uninstall <version>  ## 删除已安装的指定版本，语法与install类似
